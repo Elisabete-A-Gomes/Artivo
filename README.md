@@ -1,8 +1,9 @@
-<img src="Capa-Python.png">
+<img src="src/Capa Python.png">
 
 # Introdução
 Se você está começando com Python, entender como criar e usar funções é essencial para escrever código eficiente e organizado. Funções são blocos de código reutilizáveis que tornam seu trabalho mais fácil e modular. Neste artigo, vamos explorar como criar funções, entender o que são funções reutilizáveis, e aprender boas práticas com exemplos práticos. Prepare-se para dominar funções em Python e melhorar suas habilidades de programação!
 
+<img src="src/Capa Python.png">
 ## Como criar funções em Python
 Criar funções em Python é mais fácil do que parece! Uma função é um bloco de código que só executa quando é chamado. Você pode passar dados para a função através de parâmetros e ela pode retornar dados como resultado. Aqui está um exemplo básico de como criar uma função:
 
@@ -11,6 +12,7 @@ Criar funções em Python é mais fácil do que parece! Uma função é um bloco
 
 Essa função, quando chamada com minha_funcao(), irá imprimir "Olá, Mundo!".
 
+<img src="src/Capa Python.png">
 ## O que são funções reutilizáveis
 Funções reutilizáveis são aquelas que podem ser usadas em diferentes partes do seu código, sem precisar ser reescritas. Elas ajudam a manter seu código organizado e eficiente. Basicamente, você escreve a função uma vez e pode usá-la quantas vezes precisar. Um exemplo clássico de função reutilizável é uma que soma dois números:
 
@@ -19,6 +21,7 @@ Funções reutilizáveis são aquelas que podem ser usadas em diferentes partes 
 
 Com essa função, você pode somar quaisquer dois números apenas chamando soma(3, 4) ou soma(10, 20).
 
+<img src="src/Capa Python.png">
 ## Exemplos de Funções Mais Utilizadas
 Aqui estão cinco exemplos de funções comuns e úteis que você pode usar em diversos projetos de programação em Python. Cada uma delas inclui uma breve explicação e seu código correspondente.
 
@@ -61,6 +64,7 @@ Um exemplo de boa prática é adicionar um docstring (comentário explicativo) l
         """Esta função saúda a pessoa cujo nome é passado como parâmetro."""
         print(f"Olá, {nome}!")
 
+<img width="200px" src="src/Capa Python.png">
 ## Conclusão
 Gostou dessas dicas? Siga no Linkedin para mais conteúdos sobre programação e desenvolvimento! Não perca as próximas dicas e tutoriais!
 
