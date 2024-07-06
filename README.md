@@ -1,4 +1,4 @@
-<img src="src/Capa Python.png">
+<img src="src/capaoficial.png">
 
 # Introdução
 <p>Se você está começando com Python, entender como criar e usar funções é essencial para escrever código eficiente e organizado. Funções são blocos de código reutilizáveis que tornam seu trabalho mais fácil e modular. Neste artigo, vamos explorar como criar funções, entender o que são funções reutilizáveis, e aprender boas práticas com exemplos práticos. Prepare-se para dominar funções em Python e melhorar suas habilidades de programação!</p>
