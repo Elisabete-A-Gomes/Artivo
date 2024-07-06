@@ -78,3 +78,30 @@ Ilustrações de capa: geradas pela lexica.art
 
 Conteúdo gerado por: ChatGPT e revisões humanas
 
+-----
+### Prompt Utilizado:
+- Como criar funções me python
+- O que são funções reutilizáveis
+  - Cite exemplo de funções reutilizaveis
+-  Boas Práticas
+  - Cite exemplo de boas práticas
+- Faça um call to action para as minhas redes socias
+- Coloque 3 hastag que façam sentidos
+
+Comporte-se como um escritor de artigo de front-end e escreva o aritgo atendendo as regras abaixo
+
+{REGRAS}
+> No máximo 5 linhas por blocos de explicação
+> Explique de maneira informal para quem não sabe sobre python
+> Os blocos que serão criados abaixo:
+- Como criar funções me python
+- O que são funções reutilizáveis
+  - Cite exemplo de funções reutilizaveis
+-  Boas Práticas
+  - Cite exemplo de boas práticas
+- Faça um call to action para as minhas redes socias
+- Coloque 3 hastag que façam sentidos
+
+ilustrações de capa: geradas pela lexica.art
+conteúdo gerado por: chatgpt e revisões humanas
+
